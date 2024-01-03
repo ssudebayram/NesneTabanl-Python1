@@ -1,0 +1,1 @@
+# NesneTabanl-Python1
